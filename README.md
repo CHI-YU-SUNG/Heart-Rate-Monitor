@@ -53,6 +53,7 @@ if __name__ == "__main__":
 ```
 
 
+
 ## Plotting
 If you wish to get a plot of the analysis, use the `plot_graph` method on the analyzer e.g. `heart_rate_monitor.analyzer.plot_graph()`.
 
